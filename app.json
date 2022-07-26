@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "pickflick",
+    "slug": "pickflick",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
